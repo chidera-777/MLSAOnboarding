@@ -27,11 +27,11 @@ const siteProps = {
   name: "Ferdinand Udemgba",
   title: "Software Engineer",
   email: "ferdinandchidera49@gmail.com",
-  gitHub: "github.com/chidera-777",
-  instagram: "microsoft",
-  linkedIn: "linkedin.com/in/ferdinand-udemgba-022503243/",
-  medium: "",
-  twitter: "https://twitter.com/ferdinandchide2",
+  gitHub: "chidera-777",
+  instagram: "#",
+  linkedIn: "ferdinand-udemgba-022503243",
+  medium: "#",
+  twitter: "ferdinandchide2",
   youTube: "Code",
 };
 
